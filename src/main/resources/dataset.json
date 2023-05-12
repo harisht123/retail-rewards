@@ -1,0 +1,405 @@
+{
+  "requestId": "bda9c5d5-7567-4bdf-9a71-c0079527d7a7",
+  "customerPurchases": [
+    {
+      "customerId": "customerId1",
+      "purchases": [
+        {
+          "purchaseId": 1,
+          "purchaseDate": "2023-03-05",
+          "purchaseAmount": 120
+        },
+        {
+          "purchaseId": 2,
+          "purchaseDate": "2023-03-07",
+          "purchaseAmount": 70
+        },
+        {
+          "purchaseId": 3,
+          "purchaseDate": "2023-03-12",
+          "purchaseAmount": 45
+        },
+        {
+          "purchaseId": 4,
+          "purchaseDate": "2023-03-14",
+          "purchaseAmount": 50
+        },
+        {
+          "purchaseId": 5,
+          "purchaseDate": "2023-03-18",
+          "purchaseAmount": 69
+        },
+        {
+          "purchaseId": 6,
+          "purchaseDate": "2023-03-20",
+          "purchaseAmount": 99
+        },
+        {
+          "purchaseId": 7,
+          "purchaseDate": "2023-03-23",
+          "purchaseAmount": 130
+        },
+        {
+          "purchaseId": 8,
+          "purchaseDate": "2023-03-26",
+          "purchaseAmount": 170
+        },
+        {
+          "purchaseId": 9,
+          "purchaseDate": "2023-03-29",
+          "purchaseAmount": 200
+        },
+        {
+          "purchaseId": 10,
+          "purchaseDate": "2023-03-30",
+          "purchaseAmount": 250
+        },
+        {
+          "purchaseId": 11,
+          "purchaseDate": "2023-03-31",
+          "purchaseAmount": 0
+        },
+        {
+          "purchaseId": 12,
+          "purchaseDate": "2023-04-02",
+          "purchaseAmount": 50
+        },
+        {
+          "purchaseId": 13,
+          "purchaseDate": "2023-04-05",
+          "purchaseAmount": 333
+        },
+        {
+          "purchaseId": 14,
+          "purchaseDate": "2023-04-07",
+          "purchaseAmount": 219
+        },
+        {
+          "purchaseId": 15,
+          "purchaseDate": "2023-04-12",
+          "purchaseAmount": 19
+        },
+        {
+          "purchaseId": 16,
+          "purchaseDate": "2023-04-16",
+          "purchaseAmount": 119
+        },
+        {
+          "purchaseId": 17,
+          "purchaseDate": "2023-04-18",
+          "purchaseAmount": 22
+        },
+        {
+          "purchaseId": 18,
+          "purchaseDate": "2023-04-20",
+          "purchaseAmount": 557
+        },
+        {
+          "purchaseId": 19,
+          "purchaseDate": "2023-04-25",
+          "purchaseAmount": 33
+        },
+        {
+          "purchaseId": 20,
+          "purchaseDate": "2023-04-28",
+          "purchaseAmount": 77
+        },
+        {
+          "purchaseId": 21,
+          "purchaseDate": "2023-04-30",
+          "purchaseAmount": 111
+        }
+      ]
+    },
+    {
+      "customerId": "customerId2",
+      "purchases": [
+        {
+          "purchaseId": 1,
+          "purchaseDate": "2023-03-04",
+          "purchaseAmount": 111
+        },
+        {
+          "purchaseId": 2,
+          "purchaseDate": "2023-03-08",
+          "purchaseAmount": 259
+        },
+        {
+          "purchaseId": 3,
+          "purchaseDate": "2023-03-13",
+          "purchaseAmount": 1123
+        },
+        {
+          "purchaseId": 4,
+          "purchaseDate": "2023-03-16",
+          "purchaseAmount": 5
+        },
+        {
+          "purchaseId": 5,
+          "purchaseDate": "2023-03-19",
+          "purchaseAmount": 699
+        },
+        {
+          "purchaseId": 6,
+          "purchaseDate": "2023-03-22",
+          "purchaseAmount": 76
+        },
+        {
+          "purchaseId": 7,
+          "purchaseDate": "2023-03-23",
+          "purchaseAmount": 159
+        },
+        {
+          "purchaseId": 8,
+          "purchaseDate": "2023-03-27",
+          "purchaseAmount": 486
+        },
+        {
+          "purchaseId": 9,
+          "purchaseDate": "2023-04-01",
+          "purchaseAmount": 20
+        },
+        {
+          "purchaseId": 10,
+          "purchaseDate": "2023-04-09",
+          "purchaseAmount": 347
+        },
+        {
+          "purchaseId": 11,
+          "purchaseDate": "2023-04-14",
+          "purchaseAmount": 22
+        },
+        {
+          "purchaseId": 12,
+          "purchaseDate": "2023-04-16",
+          "purchaseAmount": 85
+        },
+        {
+          "purchaseId": 13,
+          "purchaseDate": "2023-04-19",
+          "purchaseAmount": 333
+        },
+        {
+          "purchaseId": 14,
+          "purchaseDate": "2023-04-24",
+          "purchaseAmount": 186
+        },
+        {
+          "purchaseId": 15,
+          "purchaseDate": "2023-04-27",
+          "purchaseAmount": 241
+        },
+        {
+          "purchaseId": 16,
+          "purchaseDate": "2023-04-30",
+          "purchaseAmount": 0
+        },
+        {
+          "purchaseId": 17,
+          "purchaseDate": "2023-05-01",
+          "purchaseAmount": 9
+        },
+        {
+          "purchaseId": 18,
+          "purchaseDate": "2023-05-03",
+          "purchaseAmount": 557
+        },
+        {
+          "purchaseId": 19,
+          "purchaseDate": "2023-05-09",
+          "purchaseAmount": 33
+        },
+        {
+          "purchaseId": 20,
+          "purchaseDate": "2023-05-10",
+          "purchaseAmount": 583
+        }
+      ]
+    },
+    {
+      "customerId": "customerId3",
+      "purchases": [
+        {
+          "purchaseId": 1,
+          "purchaseDate": "2023-03-10",
+          "purchaseAmount": 120
+        },
+        {
+          "purchaseId": 2,
+          "purchaseDate": "2023-04-12",
+          "purchaseAmount": 23
+        },
+        {
+          "purchaseId": 3,
+          "purchaseDate": "2023-05-01",
+          "purchaseAmount": 50
+        }
+      ]
+    },
+    {
+      "customerId": "customerId4",
+      "purchases": [
+        {
+          "purchaseId": 1,
+          "purchaseDate": "2023-03-10",
+          "purchaseAmount": 1234
+        }
+      ]
+    },
+    {
+      "customerId": "customerId5",
+      "purchases": [
+        {
+          "purchaseId": 1,
+          "purchaseDate": "2023-03-10",
+          "purchaseAmount": 23
+        },
+        {
+          "purchaseId": 2,
+          "purchaseDate": "2023-04-12",
+          "purchaseAmount": 47
+        },
+        {
+          "purchaseId": 3,
+          "purchaseDate": "2023-05-01",
+          "purchaseAmount": 14
+        }
+      ]
+    },
+    {
+      "customerId": "customerId1",
+      "purchases": [
+        {
+          "purchaseId": 1,
+          "purchaseDate": "2023-03-12",
+          "purchaseAmount": 222
+        },
+        {
+          "purchaseId": 2,
+          "purchaseDate": "2023-05-06",
+          "purchaseAmount": 59
+        },
+        {
+          "purchaseId": 3,
+          "purchaseDate": "2023-05-08",
+          "purchaseAmount": 64
+        },
+        {
+          "purchaseId": 4,
+          "purchaseDate": "2023-05-10",
+          "purchaseAmount": 32
+        },
+        {
+          "purchaseId": 5,
+          "purchaseDate": "2023-05-12",
+          "purchaseAmount": 222
+        }
+      ]
+    },
+    {
+      "customerId": "customerId6",
+      "purchases": [
+        {
+          "purchaseId": 1,
+          "purchaseDate": "2023-03-05",
+          "purchaseAmount": 75
+        },
+        {
+          "purchaseId": 2,
+          "purchaseDate": "2023-03-07",
+          "purchaseAmount": 70
+        },
+        {
+          "purchaseId": 3,
+          "purchaseDate": "2023-03-12",
+          "purchaseAmount": 1
+        },
+        {
+          "purchaseId": 4,
+          "purchaseDate": "2023-03-14",
+          "purchaseAmount": 50
+        },
+        {
+          "purchaseId": 5,
+          "purchaseDate": "2023-03-18",
+          "purchaseAmount": 969
+        },
+        {
+          "purchaseId": 6,
+          "purchaseDate": "2023-03-20",
+          "purchaseAmount": 258
+        },
+        {
+          "purchaseId": 7,
+          "purchaseDate": "2023-03-23",
+          "purchaseAmount": 190
+        },
+        {
+          "purchaseId": 8,
+          "purchaseDate": "2023-03-26",
+          "purchaseAmount": 10
+        },
+        {
+          "purchaseId": 9,
+          "purchaseDate": "2023-03-29",
+          "purchaseAmount": 200
+        },
+        {
+          "purchaseId": 10,
+          "purchaseDate": "2023-03-30",
+          "purchaseAmount": 589
+        },
+        {
+          "purchaseId": 11,
+          "purchaseDate": "2023-03-31",
+          "purchaseAmount": 0
+        },
+        {
+          "purchaseId": 12,
+          "purchaseDate": "2023-04-02",
+          "purchaseAmount": 10
+        },
+        {
+          "purchaseId": 13,
+          "purchaseDate": "2023-04-05",
+          "purchaseAmount": 33
+        },
+        {
+          "purchaseId": 14,
+          "purchaseDate": "2023-04-07",
+          "purchaseAmount": 19
+        },
+        {
+          "purchaseId": 15,
+          "purchaseDate": "2023-04-12",
+          "purchaseAmount": 19
+        },
+        {
+          "purchaseId": 16,
+          "purchaseDate": "2023-04-16",
+          "purchaseAmount": 11
+        },
+        {
+          "purchaseId": 17,
+          "purchaseDate": "2023-04-18",
+          "purchaseAmount": 22
+        },
+        {
+          "purchaseId": 18,
+          "purchaseDate": "2023-04-20",
+          "purchaseAmount": 557
+        },
+        {
+          "purchaseId": 19,
+          "purchaseDate": "2023-04-28",
+          "purchaseAmount": 77
+        },
+        {
+          "purchaseId": 20,
+          "purchaseDate": "2023-05-01",
+          "purchaseAmount": 111
+        }
+      ]
+    }
+  ]
+}
