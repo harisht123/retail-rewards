@@ -32,7 +32,6 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
                 .collect(Collectors.toList());
 
         body.put("errors", errors);
-
         log.error("Bad request received, errors on thr request: {}", errors);
 
         return new ResponseEntity<>(body, HttpStatus.BAD_REQUEST);
