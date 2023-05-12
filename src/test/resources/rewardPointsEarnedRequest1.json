@@ -1,0 +1,14 @@
+{
+  "requestId": "bda9c5d5-7567-4bdf-9a71-c0079527d7a7",
+  "customerPurchases": [
+    {
+      "customerId": "customerId1",
+      "purchases": [
+        {
+          "purchaseDate": "2023-04-12",
+          "purchaseAmount": 120
+        }
+      ]
+    }
+  ]
+}

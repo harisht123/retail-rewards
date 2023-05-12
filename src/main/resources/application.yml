@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+rewards:
+  pointPerDollarAboveFiftyBelowHundred: 1
+  pointPerDollarAboveHundred: 2

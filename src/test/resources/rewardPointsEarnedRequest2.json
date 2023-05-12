@@ -1,0 +1,53 @@
+{
+  "requestId": "bda9c5d5-7567-4bdf-9a71-c0079527d7a7",
+  "customerPurchases": [
+    {
+      "customerId": "customerId1",
+      "purchases": [
+        {
+          "purchaseDate": "2023-04-12",
+          "purchaseAmount": 120
+        },
+        {
+          "purchaseDate": "2023-05-10",
+          "purchaseAmount": 90
+        }
+      ]
+    },
+    {
+      "customerId": "customerId2",
+      "purchases": [
+        {
+          "purchaseDate": "2023-03-10",
+          "purchaseAmount": 190
+        },
+        {
+          "purchaseDate": "2023-03-15",
+          "purchaseAmount": 250
+        },
+        {
+          "purchaseDate": "2023-04-05",
+          "purchaseAmount": 400
+        }
+      ]
+    },
+    {
+      "customerId": "customerId3",
+      "purchases": [
+        {
+          "purchaseDate": "2023-04-12",
+          "purchaseAmount": 120
+        }
+      ]
+    },
+    {
+      "customerId": "customerId1",
+      "purchases": [
+        {
+          "purchaseDate": "2023-03-12",
+          "purchaseAmount": 222
+        }
+      ]
+    }
+  ]
+}
